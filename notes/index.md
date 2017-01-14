@@ -13,7 +13,7 @@
 
     使用者輸入3  印1-987 (121, 988, 667等有重複的不印)
 
-一時版上出現了用各種語言寫的解答, 簡直就像 Rosseta Code 一樣.
+一時版上出現了用各種語言寫的解答, 簡直就像 [Rosseta Code](https://rosettacode.org/wiki/Category:J) 一樣.
 
 我也忍不住趁機學了一下觀望已久但一直沒有動手的 J 語言. 幾天後勉強拼出個[版本](https://www.ptt.cc/bbs/Programming/M.1482166817.A.DC1.html):
 
