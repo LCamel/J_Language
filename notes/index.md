@@ -2,7 +2,7 @@
 
 2016 年底, 看到 PTT Programming 版的一則[題目](https://www.ptt.cc/bbs/Programming/M.1478792208.A.EFC.html):
 
-     作者  mikemagic88 (Mikemagic88)           看板  Programming
+     作者  mikemagic88 (Mikemagic88)                            看板  Programming
      標題  [問題] 1-9位數不重複印出來
      時間  Thu Nov 10 23:36:45 2016
     ───────────────────────────────────────
