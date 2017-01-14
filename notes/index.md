@@ -1,6 +1,6 @@
 前言
 
-2016 年底, 看到 PTT Programming 版的一則題目:
+2016 年底, 看到 PTT Programming 版的一則[題目](https://www.ptt.cc/bbs/Programming/M.1478792208.A.EFC.html):
 
      作者  mikemagic88 (Mikemagic88)           看板  Programming
      標題  [問題] 1-9位數不重複印出來
@@ -15,7 +15,7 @@
 
 一時版上出現了用各種語言寫的解答, 簡直就像 Rosseta Code 一樣.
 
-我也忍不住趁機學了一下觀望已久但一直沒有動手的 J 語言. 幾天後勉強拼出個版本:
+我也忍不住趁機學了一下觀望已久但一直沒有動手的 J 語言. 幾天後勉強拼出個[版本](https://www.ptt.cc/bbs/Programming/M.1482166817.A.DC1.html):
 
     (*/@~:@":"0#[)}.i.10^3
     
