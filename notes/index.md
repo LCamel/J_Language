@@ -31,9 +31,9 @@ APL 的作者 Iverson 也因為開創了這個流派而得了 1979 年的 Turing
 APL 本來是 Iverson 1957 年創造來描寫數學運算的一套 notation (所以有很多符號). 1962 在 IBM 被拿來描述 [System/360](https://en.wikipedia.org/wiki/IBM_System/360) 硬體的行為, 後來這套 notation 才被實作在硬體上 (這個順序挺特別的).
 
 APL 需要特別的鍵盤/印表機支援:
-https://upload.wikimedia.org/wikipedia/commons/9/9f/APL-keybd2.svg
+!(keyboard)[https://upload.wikimedia.org/wikipedia/commons/9/9f/APL-keybd2.svg]
 
-那個年代的 programmer 居然是對著 printer 而不是對著 monitor 工作的!
+又讓我驚訝的是: 那個年代的 programmer 居然是對著 printer 而不是對著 monitor 工作的!
 https://youtu.be/_DTpQ4Kk2wA?t=5m25s
 
 這系列的語言[還被用在](https://en.wikipedia.org/wiki/APL_(programming_language)#Use) 數學/金融等領域.
